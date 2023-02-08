@@ -13,7 +13,7 @@ The game likely employs a range of technologies to deliver an immersive experien
 Overall, the combination of JavaScript and HTML Canvas provides developers with a powerful platform for creating high-quality, interactive fighting games that can be enjoyed by players on a variety of devices.
 
 # DEMO
-- legendary-yonatan.netlify.app
+- https://legendary-yonatan.netlify.app/
 
 # screenshots
 
